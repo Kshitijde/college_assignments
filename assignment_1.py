@@ -26,3 +26,4 @@ else:
         print(tax)
         print(total_salary)
         print(final_salary)
+	print("thank you")
